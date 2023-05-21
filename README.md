@@ -1,5 +1,7 @@
 # Scikit-LLM-Example
-
+<br>
+Scikit-LLM is an easy and efficient way to build ChatGPT-based text classification models using conventional scikit-learn compatible estimators without having to manually interact with OpenAI APIs.
+<br><br>
 Classification and labelling are common tasks in natural language processing (NLP). In traditional machine learning workflows these tasks would involve collecting labeled data, training a model, deploying it in the cloud, and making inferences. However, this process can be time-consuming, requiring separate models for each task, and not always yielding optimal results.
 <br> <br>
 With recent advancements in the area of large language models, such as ChatGPT, we now have a new way to approach NLP tasks. Rather than training and deploying separate models for each task, we can use a single model to perform a wide range of NLP tasks simply by providing it with a prompt.
