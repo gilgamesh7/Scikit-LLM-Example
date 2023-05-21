@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "scikit-llm-example"
+version = "0.1.0"
+description = "Scikit LLM first try from website"
+authors = ["gilgamesh7 <felidaesrule@yahoo.com>"]
+readme = "README.md"
+packages = [{include = "scikit_llm_example"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scikit-llm = "^0.1.0b2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
